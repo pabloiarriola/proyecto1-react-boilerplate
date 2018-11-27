@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-- link:https://www.npmjs.com/get-npm/ [NPM]   
+- [NPM]   [24]
 - [NodeJS](https://nodejs.org/en/)
 
 ### Installing
@@ -156,4 +156,5 @@ Dependencies to run and compile a webpack based node+react+redux application
 [21]:https://csstools.github.io/sanitize.css/
 [22]:https://www.npmjs.com/package/webpack
 [23]:https://www.npmjs.com/package/webpack-cli
+[24]:https://www.npmjs.com/get-npm/
 
