@@ -6,7 +6,7 @@ Author: [@pabloiarriola](https://github.com/pabloiarriola)
 
 ***
 
-##Description 
+## Description 
 
 In programming, the term boilerplate code refers to blocks of code used over and over again.
 
@@ -25,9 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-```
-npm 6 or greater
-```
+- [NPM] (https://www.npmjs.com/get-npm)
 - [NodeJS](https://nodejs.org/en/)
 
 ### Installing
@@ -64,7 +62,7 @@ This will launch the webpack-dev-server at [localhost:3000](http://localhost:300
   - node_modules (the dependencies needed)  
   - src (here is all the source code)
 	-client
-		- _snapshots_
+		- snapshots
 		- history.js
 		- index.html
 		- index.js
