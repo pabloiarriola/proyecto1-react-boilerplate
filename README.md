@@ -48,7 +48,7 @@ This will launch the webpack-dev-server at [localhost:3000](http://localhost:300
 ## Running the tests
 
 ```
-    npm run test :this will help you test the build and check for errors
+    npm run test : this will help you test the build and check for errors
 ```
 
 ## Project Structure
