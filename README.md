@@ -66,17 +66,17 @@ This will launch the webpack-dev-server at [localhost:3000](http://localhost:300
 		- history.js
 		- index.html
 		- index.js
-	-containers
+	- containers
 		- about
 			- index.js
 		- app
 			- index.js
 		- home
 			- index.js
-	-modules
+	- modules
 		- counter.js (the demo app code)
 		- index.js
-	-server
+	- server
 		- index.js
 		- web.server.js
 		- web.server.test.js
