@@ -61,7 +61,7 @@ This will launch the webpack-dev-server at [localhost:3000](http://localhost:300
 		- client.js
   - node_modules (the dependencies needed)  
   - src (here is all the source code)
-	-client
+    - client
 		- snapshots
 		- history.js
 		- index.html
